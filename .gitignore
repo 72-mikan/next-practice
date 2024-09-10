@@ -34,3 +34,13 @@
 # typescript
 /my-app/*.tsbuildinfo
 /my-app/next-env.d.ts
+
+
+
+/test-api/.DS_Store
+/test-api/.minio
+/test-api/.pdf
+/test-api/.vscode
+/test-api/*.psd
+/test-api/tsconfig.tsbuildinfo
+/test-api/node_modules
